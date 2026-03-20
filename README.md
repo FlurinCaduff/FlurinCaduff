@@ -1,30 +1,44 @@
-# Hi, I'm Flurin 👋
+# Flurin 👋
 
-### 🚀 Mechanical Engineering Master's Student @ ETH Zürich (D-MAVT) 🇨🇭
+### 🚀 Mechanical Engineering Master's Student @ [ETH Zürich](https://ethz.ch/en.html) (D-MAVT) 🇨🇭
 
-I am a Mechanical Engineer specializing in **Numerical Methods**, **Matrix Optimization**, and **Fluid Dynamics**. Currently, I am developing high-performance algorithms for my **2026 Master Thesis** to solve complex thermal convergence challenges.
-
----
-
-## 🛠️ Technical Stack & Tools
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I am a Mechanical Engineer specializing in **Numerical Methods**, **High-Performance Matrix Optimization**, and **Computational Fluid Dynamics (CFD)**. Currently, I am developing advanced algorithms for my **2026 Master Thesis**, focusing on solving complex thermal convergence challenges in fluid systems.
 
 ---
 
-## 📈 Current Focus
-- **Master Thesis 2026:** Researching matrix optimization and numerical stability in thermal systems.
-- **Computational Fluid Dynamics (CFD):** Optimization of iterative solvers for large-scale simulations.
-- **Numerical Analysis:** Implementing robust algorithms for heat transfer and fluid flow.
+## 🎓 Academic Context
+- **Department:** [D-MAVT (Mechanical and Process Engineering)](https://mavt.ethz.ch/)
+- **Program:** [MSc Mechanical Engineering](https://mavt.ethz.ch/studies/master/mechanical-engineering.html)
+- **Current Research:** Matrix optimization for large-scale thermal simulations.
 
 ---
 
-## 📊 GitHub Performance
-![Flurin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlurinCaduff&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlurinCaduff&layout=compact&theme=tokyonight&hide_border=true)
+## 🛠️ Technical Stack & Expertise
+
+### 💻 Programming & Simulation
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### ⚙️ Hardware & Control
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Control Systems](https://img.shields.io/badge/Systems-Control-blue?style=flat-square)
+
+---
+
+## 🔬 Core Research Interests
+- **Numerical Analysis:** Implementing robust iterative solvers for $\mathbf{A} \mathbf{x} = \mathbf{b}$.
+- **Optimization:** Reducing computational overhead in non-linear thermal models.
+- **CFD:** High-fidelity modeling of fluid-structure interactions.
+
+---
+
+## 📊 GitHub Insights
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FlurinCaduff&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlurinCaduff&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
 ---
 *📍 Based in Zürich, Switzerland.*
